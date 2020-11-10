@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Vaibhav_Portfolio/static/css/main.5facb584.chunk.css",
+    "main.js": "/Vaibhav_Portfolio/static/js/main.453a8042.chunk.js",
+    "main.js.map": "/Vaibhav_Portfolio/static/js/main.453a8042.chunk.js.map",
+    "runtime-main.js": "/Vaibhav_Portfolio/static/js/runtime-main.6c1819ee.js",
+    "runtime-main.js.map": "/Vaibhav_Portfolio/static/js/runtime-main.6c1819ee.js.map",
+    "static/js/2.e4e08dad.chunk.js": "/Vaibhav_Portfolio/static/js/2.e4e08dad.chunk.js",
+    "static/js/2.e4e08dad.chunk.js.map": "/Vaibhav_Portfolio/static/js/2.e4e08dad.chunk.js.map",
+    "index.html": "/Vaibhav_Portfolio/index.html",
+    "precache-manifest.7bfc78acc594171be0d83d071315d711.js": "/Vaibhav_Portfolio/precache-manifest.7bfc78acc594171be0d83d071315d711.js",
+    "service-worker.js": "/Vaibhav_Portfolio/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/Vaibhav_Portfolio/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.e4e08dad.chunk.js.LICENSE.txt": "/Vaibhav_Portfolio/static/js/2.e4e08dad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c1819ee.js",
+    "static/js/2.e4e08dad.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.453a8042.chunk.js"
+  ]
+}
